@@ -55,5 +55,5 @@ def validateNumber(engine, number, width):
     else:
         return 0
 
-#totalPartNumbers("Day 3\Part1_UnitTest.txt")
+#totalPartNumbers("Day 3\Day3_UnitTest.txt")
 totalPartNumbers("Day 3\Day3_Input.txt")
