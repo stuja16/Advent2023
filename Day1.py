@@ -2,7 +2,7 @@ digitTexts = {("zero", "0"), ("one", "1"), ("two", "2"), ("three", "3"), ("four"
 
 # Solves Day 1 by opening/reading file and calling the needed functions to find the sum of all callibration values
 def getTotal():
-    file = open("Day1_Input.txt","r")
+    file = open("Day 1\Day1_Input.txt","r")
     sum = 0;    # Variable to store the sum (target value)
     for each in file:
         cv = getCallibrationValue(each.lower())
