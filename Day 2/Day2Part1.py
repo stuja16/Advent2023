@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/2
+
 MAXRED = 12
 MAXGREEN = 13
 MAXBLUE = 14

@@ -1,3 +1,5 @@
+# https://adventofcode.com/2023/day/1
+
 digitTexts = {("zero", "0"), ("one", "1"), ("two", "2"), ("three", "3"), ("four", "4"), ("five", "5"), ("six", "6"), ("seven", "7"), ("eight", "8"), ("nine", "9")}
 
 # Solves Day 1 by opening/reading file and calling the needed functions to find the sum of all callibration values
